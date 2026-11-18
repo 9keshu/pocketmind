@@ -50,6 +50,11 @@ To listen: unplug the board first, then take the card out and play the WAV file 
 - `CMakeLists.txt`
 
 ## Datasheets
+Download (in the `datasheets` folder of this repo):
+- [microSD breakout datasheet (Adafruit)](datasheets/adafruit-microsd-spi-sdio.pdf)
+- [XIAO board datasheet (Seeed Studio)](datasheets/Seeed-Studio-XIAO-Series-SOM-Datasheet.pdf)
+
+These PDFs are © Adafruit Industries and Seeed Studio, shared here for convenience. The latest versions are on the makers' sites:
 - Adafruit microSD breakout, pinouts: https://learn.adafruit.com/adafruit-microsd-spi-sdio/pinouts
 - Adafruit microSD breakout, full guide (PDF): https://cdn-learn.adafruit.com/downloads/pdf/adafruit-microsd-spi-sdio.pdf
 - XIAO nRF52840 Sense, getting started: https://wiki.seeedstudio.com/XIAO_BLE/
