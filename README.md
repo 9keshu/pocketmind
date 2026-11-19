@@ -9,6 +9,6 @@ Every part of the YouTube series has its own folder here, with its code, wiring 
 |------|-------|--------|
 | 1. The idea and the plan | https://youtu.be/gT32MBILnu8 | (no code) |
 | 2. Parts arrive + first firmware (Blinky) | https://youtu.be/pMGBajvnrMw | (Blinky sample from the nRF Connect SDK) |
-| 3. Soldering + SD card + first recording | YouTube: keshuirl | [part3-first-recording](part3-first-recording) |
+| 3. Soldering + SD card + first recording | https://youtu.be/N-FLtRJaOco | [part3-first-recording](part3-first-recording) |
 
 YouTube: https://www.youtube.com/@keshuirl · Instagram: https://www.instagram.com/keshuirl
