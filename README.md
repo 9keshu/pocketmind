@@ -3,6 +3,8 @@
 PocketMind is a one-button wearable voice recorder that I'm building from scratch, on video. It records offline to a microSD card and will sync to a phone over Bluetooth.
 Board: Seeed Studio XIAO nRF52840 Sense · Firmware: Zephyr (nRF Connect SDK).
 
+**Product analysis:** why PocketMind, the recorders on the market today, requirements, design principles and firmware architecture: [PocketMind-Product-Analysis.pdf](PocketMind-Product-Analysis.pdf)
+
 Every part of the YouTube series has its own folder here, with its code, wiring diagram and datasheet links.
 
 | Part | Video | Folder |
